@@ -4,7 +4,7 @@ This repository embodies a comprehensive compilation of academic projects develo
 
 ## Index
 <li>
-  <a href="web">
+  <a href="#web">
     Web Development
   </a>
 </li>
