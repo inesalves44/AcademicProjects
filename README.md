@@ -30,7 +30,7 @@ These are the projects made for web development.
 Project | Description | Repository
 --------|------------|------
 snakeGame | This project was the first static website I created it used only HTML, CSS and javascript | [Link](https://github.com/inesalves44/smartMarket)
-smartMarket | A complete project that passed to create a database, an API and a website using Angular | link
+smartMarket | A complete project that passed to create a database, an API and a website using Angular | [Link](https://github.com/inesalves44/smartMarket)
 
 <h2 id="sql">SQL databases</h2>
 this section references projects created with SQL server databases.
