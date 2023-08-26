@@ -40,7 +40,14 @@ Project | Description | Repository
 smartMarket | A complete project that passed to create a database, an API and a website using Angular | [Link](https://github.com/inesalves44/smartMarket)
 
 <h2 id="bi"> Power bi</h2>
-For power BI reports I have a repository that puts together all the dashboards created!
+
+<h3>What is Power BI?</h3>
+
+Power BI is a powerful business intelligence tool developed by Microsoft that enables individuals and organizations to transform raw data into interactive and visually compelling insights. It offers a suite of tools, including Power BI Desktop for creating reports and visualizations, Power BI Service for sharing and collaborating on reports, and Power BI Mobile for accessing insights on the go. With its intuitive interface and robust capabilities, Power BI allows users to connect to various data sources, clean and transform data, create interactive dashboards and reports, and apply advanced analytics through features like DAX (Data Analysis Expressions) for calculations. Whether for data exploration, decision-making, or communicating insights, Power BI empowers users to derive meaningful value from their data.
+
+<h3>My Repositories</h3>
+
+For power BI reports I have a [repository](https://github.com/inesalves44/powerBiProjects) that puts together all the dashboards created for a course.
 
 <h2 id="apps">Power Apps</h2>
 Here is the repository with all the apps created: link.
