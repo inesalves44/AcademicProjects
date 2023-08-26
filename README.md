@@ -14,7 +14,7 @@ This repository embodies a comprehensive compilation of academic projects develo
   </a>
 </li>
 <li>
-    <a href="#bi">
+    <a href="#pp">
     Power Platform
     </a>
   </li>
@@ -34,19 +34,26 @@ Project | Description | Repository
 --------|------------|------
 smartMarket | A complete project that passed to create a database, an API and a website using Angular | [Link](https://github.com/inesalves44/smartMarket)
 
-<h2 id="bi"> Power Platform</h2>
+<h2 id="pp"> Power Platform</h2>
+I am currently doing a course in power platform! I have only learned about power BI and power apps for now.
 
+<h4>What is Power Platform?</h4>
+Power Platform is a comprehensive suite of low-code and no-code tools developed by Microsoft, designed to empower individuals and organizations to create custom business solutions and automate processes. It consists of three main components: Power Apps for building custom applications without extensive coding, Power Automate for creating automated workflows and integrations between various apps and services, and Power BI for visualizing and analyzing data. Additionally, there's Power Virtual Agents for building chatbots and AI-driven virtual assistants.
 
 <h3>Power BI</h3>
-<h2>What is Power BI?</h2>
+<h4>What is Power BI?</h4>
 
-Power BI is a powerful business intelligence tool developed by Microsoft that enables individuals and organizations to transform raw data into interactive and visually compelling insights. It offers a suite of tools, including Power BI Desktop for creating reports and visualizations, Power BI Service for sharing and collaborating on reports, and Power BI Mobile for accessing insights on the go. With its intuitive interface and robust capabilities, Power BI allows users to connect to various data sources, clean and transform data, create interactive dashboards and reports, and apply advanced analytics through features like DAX (Data Analysis Expressions) for calculations. Whether for data exploration, decision-making, or communicating insights, Power BI empowers users to derive meaningful value from their data.
+Power BI is a powerful business intelligence tool developed by Microsoft that enables individuals and organizations to transform raw data into interactive and visually compelling insights. It offers a suite of tools, including Power BI Desktop for creating reports and visualizations, Power BI Service for sharing and collaborating on reports, and Power BI Mobile for accessing insights on the go. With its intuitive interface and robust capabilities, Power BI allows users to connect to various data sources, clean and transform data, create interactive dashboards and reports, and apply advanced analytics through features like DAX (Data Analysis Expressions) for calculations. 
 
-<h2>My Repository</h2>
+<h4>My Repository</h4>
 
 For power BI reports I have a [repository](https://github.com/inesalves44/powerBiProjects) that puts together all the dashboards created for a course.
 
 <h3 id="apps">Power Apps</h3>
 
-<h3>What is Power Apps?</h3>
+<h4>What is Power Apps?</h4>
+
+Power Apps, developed by Microsoft, is a versatile low-code platform that empowers individuals and businesses to create custom applications without extensive coding expertise. It enables users to design intuitive apps with a user-friendly interface, connecting to various data sources and services. With Power Apps, you can streamline processes, automate tasks, and provide tailored solutions for specific business needs. Its drag-and-drop functionality, along with pre-built templates and connectors, allows for rapid app development, making it accessible to a wide range of users. 
+
+<h4>My Repository</h4>
 Here is the repository with all the apps created: link.
