@@ -18,6 +18,10 @@ This repository embodies a comprehensive compilation of academic projects develo
     Power Platform
     </a>
   </li>
+   <a href="#bc">
+    Business Cental
+    </a>
+  </li>
 
 <h2 id="web" > Web Development </h2>
 These are the projects made for web development.
@@ -60,3 +64,8 @@ Power Apps, developed by Microsoft, is a versatile low-code platform that empowe
 Here is the repository with all the apps created: [link](https://github.com/inesalves44/PowerAppsExc)
 
 
+<h2 id="bc"> Business central</h2>
+
+This is my repository for my business central booster journey were I got my certificate "Core Development Specialist in Business Central": [link](https://github.com/inesalves44/BusinessBoosterExercises)
+
+My repository for a fictional insurance claim company: [link](https://github.com/inesalves44/BC-InsuranceClaim)
