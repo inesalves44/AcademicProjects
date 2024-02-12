@@ -17,9 +17,9 @@ This repository embodies a comprehensive compilation of academic projects develo
     <a href="#pp">
     Power Platform
     </a>
-  </li>
-   <a href="#bc">
-    Business Cental
+  <li>
+     <a href="#bc">
+      Business Cental
     </a>
   </li>
 
